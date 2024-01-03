@@ -105,8 +105,29 @@
     margin: 2em auto;
 }
 
+
+.final{
+    width: 80%;
+    justify-content: center;
+    margin: 7em auto;
+    background-color: rgba(96, 218, 240, 0.704);
+    padding: 1px;
+    border: 1px solid;
+}
+.final p{
+    
+        justify-items: center;
+        width: 80%;
+        margin: 2em auto;
+        font-size:2em;
+        color: rgb(255, 25, 140);
+    
+}
 .texto p{
-    font-size: 1.1em;
+    justify-content: center;
+    width: 80%;
+    margin: 2em auto;
+    font-family: "Helvetica Neue",Helvetica;
 }
 
 .item img:hover{
@@ -173,6 +194,24 @@
     .item{
         width: 80%;
         margin: 1em;
+    }
+    .final{
+        width: 80%;
+        justify-content: center;
+        margin: 0.5em auto;
+        background-color: rgba(96, 218, 240, 0.704);
+        padding: 1px;
+        border: 1px solid;
+        margin-top: 26em;
+    }
+    .final p{
+        
+            justify-items: center;
+            width: 80%;
+            margin: 2em auto;
+            font-size:2em;
+            color: rgb(255, 25, 140);
+        
     }
 }
 .sorpresa{
